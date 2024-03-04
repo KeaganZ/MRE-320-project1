@@ -36,7 +36,7 @@ After obtaining a large range of temperature values and humidity values, the dat
 
 Summary of Findings (See DHT11SensorMeasurement.pdf and Powerpoint Presentation in "MeasurmentResults" folder for Data Analysis and Visualization):
 
-Based on data analysis, the DHT11 did not perform as well as intended by the manufacturer.  Data points often were outside of intended accuracy range.  Temperature was often Less accurate than Manufacturer specifications (Within 3-4 C of Real Temperature). The most accurate range was only about 5-45 C.  Repeated measurements sometimes differed by 3-4 C.
+Based on data analysis, the DHT11 did not perform as well as intended by the manufacturer.  Data points often were outside of intended accuracy range.  Temperature was often less accurate than Manufacturer specifications (Within 3-4 C of Real Temperature). The most accurate range was only about 5-45 C.  Repeated measurements sometimes differed by 3-4 C.
 
 The relative humidity sensor was even less accurate, often differing by 6-7% from actual humidity.  Also, there was not an obvious range where the humidity sensor performed accurately.  Repeated measurements sometimes differed by 5-6 %.
 
