@@ -34,7 +34,7 @@ To take data, the box was closed and time was given for the box and sensors to r
 
 After obtaining a large range of temperature values and humidity values, the data can then be plotted using Excel or Matlab, depending on preference.  I recorded my data and data set averages in Excel, then imported into Matlab for data analysis.  
 
-Summary of Findings (See DHT11SensorMeasurement.pdf and Powerpoint Presentation for Data Analysis and Visualization):
+Summary of Findings (See DHT11SensorMeasurement.pdf and Powerpoint Presentation in "MeasurmentResults" folder for Data Analysis and Visualization):
 
 Based on data analysis, the DHT11 did not perform as well as intended by the manufacturer.  Data points often were outside of intended accuracy range.  Temperature was often Less accurate than Manufacturer specifications (Within 3-4 C of Real Temperature). The most accurate range was only about 5-45 C.  Repeated measurements sometimes differed by 3-4 C.
 
